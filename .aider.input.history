@@ -236,3 +236,61 @@
 +GM: “Correct! 🎉”
 +
 +
+
+# 2025-12-01 07:47:26.111415
++
++Instructions
++1.	Game Master (GM) thinks of a character from the list above.
++2.	Player asks up to 10 yes/no questions to guess the character.
++3.	GM answers truthfully with Yes / No / Not Saying.
++4.	After 10 questions, the player makes a final guess.
++5.	GM reveals the character.
++
++Example Script: Hoshino
++GM: “I’m thinking of a Blue Archive character. Ask your questions!”
++Player Questions & GM Answers:
++1.	Q: Is she from Abydos? → A: No
++2.	Q: Does she belong to Trinity General School? → A: Yes
++3.	Q: Is her combat style melee? → A: Yes
++4.	Q: Does she use firearms? → A: No
++5.	Q: Is she energetic and cheerful? → A: Yes
++6.	Q: Does she have a small animal companion? → A: Yes
++7.	Q: Is her role primarily support or healing? → A: No
++8.	Q: Does she wear a school uniform with a skirt? → A: Yes
++9.	Q: Is she popular among her classmates? → A: Yes
++10.	Q: Does she use magic or special abilities in battle? → A: No
++Player: “I guess… Hoshino!”
++GM: “Correct! 🎉”
++
+
+# 2025-12-01 07:47:26.111758
++
++Instructions
++1.	Game Master (GM) thinks of a character from the list above.
++2.	Player asks up to 10 yes/no questions to guess the character.
++3.	GM answers truthfully with Yes / No / Not Saying.
++4.	After 10 questions, the player makes a final guess.
++5.	GM reveals the character.
++
++Example Script: Hoshino
++GM: “I’m thinking of a Blue Archive character. Ask your questions!”
++Player Questions & GM Answers:
++1.	Q: Is she from Abydos? → A: No
++2.	Q: Does she belong to Trinity General School? → A: Yes
++3.	Q: Is her combat style melee? → A: Yes
++4.	Q: Does she use firearms? → A: No
++5.	Q: Is she energetic and cheerful? → A: Yes
++6.	Q: Does she have a small animal companion? → A: Yes
++7.	Q: Is her role primarily support or healing? → A: No
++8.	Q: Does she wear a school uniform with a skirt? → A: Yes
++9.	Q: Is she popular among her classmates? → A: Yes
++10.	Q: Does she use magic or special abilities in battle? → A: No
++Player: “I guess… Hoshino!”
++GM: “Correct! 🎉”
++
+
+# 2025-12-01 07:48:23.020388
++apply changes
+
+# 2025-12-01 07:48:23.021090
++apply changes
