@@ -27,7 +27,7 @@ export default function BlueArchiveGuessingGame() {
     if (!g) return;
     setGuess(g);
     // Simulate check
-    if (g.toLowerCase() === "sakura") {
+    if (g.toLowerCase() === "hoshino") {
       setResult("Correct! You guessed the character.");
     } else {
       setResult("Incorrect. Try again.");
